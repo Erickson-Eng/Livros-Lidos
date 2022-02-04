@@ -1,6 +1,9 @@
 # Livros-Lidos
 
 ## Sobre
+Sou um estudante de graduação de engenharia de computação, atualmente, me encontro no 8 periodo.
+Sou entusiasta de tecnologia, esporte e possuo grande apreço a leitura.
+Tenho interesse em estar trabalhando na área de arquitetura de software no qual hoje dedico boa parte dos meus estudos voltadas a o assunto.
 ## Aqui vocês vão encontrar todos livros que vim a ler separado cada sessão por tema.
 
 Todos que se encontram em italico é por que eu já terminei a leitura
