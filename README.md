@@ -37,7 +37,7 @@ Os que não se encontram com nenhum dos dois aspectos é que iniciei a leitura, 
 
 ### Arquitetural
 
-    Aqui vou recomendar alguns livros que finalizei a leitura e outros que se encontram em andamento e é uma área que tenho bastante interesse em seguir como Arquiteto de software.
+Aqui vou recomendar alguns livros que finalizei a leitura e outros que se encontram em andamento e é uma área que tenho bastante interesse em seguir como Arquiteto de software.
  
 - **Mergulho nos Padrões de Projeto -Alexander Shvets** [Refactoring Guru](https://refactoring.guru/pt-br)
 - **Arquitetura Limpa O Guia do Artesão para Estrutura e Design de Software**
